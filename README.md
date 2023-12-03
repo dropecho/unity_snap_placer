@@ -1,12 +1,8 @@
-## Quickstart
-
-Look at usage below.
-
 ## Install
 To use this, install it through the package manager.
 
 You can click on the code button in the top right, copy that or just copy this 
-```git@github.com:dropecho/unity_utils.git```
+```https://github.com/dropecho/unity_snap_placer.git```
 
 Open unity, and open the package manager, in the dropdown select install from git, and paste that in.
 
@@ -17,10 +13,7 @@ Open unity, and open the package manager, in the dropdown select install from gi
 It should then show up in the list of installed packages  
 ![image](https://user-images.githubusercontent.com/316782/142772781-1e59901a-db67-4765-ba4d-c913f4a7925f.png)
 
-
 ## Usage
-
-### Snap Placer
 
 A simple copy of something like gaia to allow easy placement of prefabs into a level.
 Find under Tools/Dropecho/Snap Placer
@@ -34,17 +27,3 @@ Even Works on Walls
 
 Displays ghost previews
 ![image](https://user-images.githubusercontent.com/316782/142775465-c44be22b-6147-4bcc-bf73-53a044f42f94.png)
-
-
-### Empty Folder Remover
-
-A small tool to search for empty folders in your project and remove them.
-
-### Script Utils
-
-This is mostly a compilation of random script utilities, so just looking through the code is best, but here is an example of using the
-Generic Scriptable Object Editor window.
-
-![image](https://user-images.githubusercontent.com/316782/142772675-c47cb55c-41c3-4af2-81d0-ee119f891877.png)
-![image](https://user-images.githubusercontent.com/316782/142775206-98579baf-8a35-452d-a964-7392dd4426bb.png)
-
