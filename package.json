@@ -1,0 +1,9 @@
+{
+  "name": "com.dropecho.snap_placer",
+  "version": "0.0.1",
+  "displayName": "Dropecho Snap Placer",
+  "description": "A tool for placing items in a game world.",
+  "author": "Dropecho <vantreeseba@gmail.com>",
+  "repository": "github:dropecho/unity_snap_placer",
+  "license": "MIT"
+}
